@@ -97,13 +97,3 @@ Skills: C++, Python, Web Development
 
 ---
 
-## 📜 License
-
-This project is for educational purposes only.
-
-```
-
----
-
-If you want next level upgrade, I can :contentReference[oaicite:0]{index=0} or :contentReference[oaicite:1]{index=1} 👍
-```
